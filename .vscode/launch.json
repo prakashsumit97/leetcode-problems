@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}/leetcodeProblems/subset78.js"
+            "program": "${workspaceFolder}/leetcodeProblems/solve130.js"
         }
     ]
 }
